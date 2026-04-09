@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "Explain why the sky appears blue.",
+    "response_a": "The sky appears blue due to Rayleigh scattering. Sunlight contains multiple wavelengths, and shorter wavelengths such as blue light are scattered more efficiently by molecules in the Earth's atmosphere. As a result, blue light is dispersed in all directions, making the sky appear blue to observers.",
+    "response_b": "The sky is blue because of the reflection of the ocean and light in the atmosphere. The atmosphere changes the color of light and makes it look blue during the day.",
+    "scores_a": {
+      "accuracy": 5,
+      "relevance": 5,
+      "clarity": 5,
+      "completeness": 5,
+      "instruction_adherence": 5,
+      "safety": 5
+    },
+    "scores_b": {
+      "accuracy": 2,
+      "relevance": 3,
+      "clarity": 3,
+      "completeness": 2,
+      "instruction_adherence": 4,
+      "safety": 5
+    }
+  }
+]
